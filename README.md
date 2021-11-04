@@ -1,2 +1,2 @@
-lol stolen scripts
+lol stolen scripts,
 read if pedo

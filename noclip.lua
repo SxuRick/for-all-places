@@ -13,5 +13,5 @@ noclip = not noclip
 game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
 end
 end)
-print('Loaded')
+print('Idi nahui')
 print('Press "E" to noclip')
